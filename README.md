@@ -1,2 +1,3 @@
-# datasciencecoursera
-My repository for data science coursera specialization
+# Data Sceince specialization for Coursera
+
+## The Data Scientist Toolbox
